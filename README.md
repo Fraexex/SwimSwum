@@ -1,8 +1,11 @@
 # SwimSwum
 ## Game Mechanics
 Gameplay: Dig Dug involves digging through soil, inflating enemies, and avoiding being crushed. The game has relatively simple mechanics compared to more complex titles.
+
 Graphics: The game features basic 2D graphics with a few sprites and tiles.
+
 Sound: Simple sound effects and background music.
+
 Controls: Basic input for movement and actions.
 ## Design Components
 1. Graphics Display
